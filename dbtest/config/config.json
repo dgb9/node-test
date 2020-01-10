@@ -1,0 +1,7 @@
+{
+  "dbUser": "test1",
+  "dbPassword" : "test1pass",
+  "dbName" : "test1",
+  "port" : "3306",
+  "machine" : "localhost"
+}
